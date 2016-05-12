@@ -16,7 +16,7 @@ Logs:
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'grape', '>= 0.14.0'
+gem 'grape', '>= 0.16.3'
 gem 'grape-middleware-logger'
 ```
 
